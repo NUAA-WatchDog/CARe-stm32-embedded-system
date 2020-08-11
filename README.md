@@ -1,42 +1,31 @@
-# care-hardware
+# CARe-stm32-embedded-system
 
-The STM32 part of CARe.
+🔌 The embedded system part of *CARe*.
 
-Author : Mr Dk. Coop. with _ZongHua_, _Lewis_
+2018.03 - 2018.08, Nanjing
 
-Created : 2018.6.30, Nanjing, Jiangsu
+---
 
-Updated : 2018.8.31, Nanjing, Jiangsu
+## About
 
-------
+Product of 7th [*China Sofeware Cup*](http://www.cnsoftbei.com/) competition. The embedded system part of *CARe*.
 
-### About
+The embedded system is used for connecting the sensors, collecting user data, and transferring to Android client of *CARe* through *bluetooth* module. It is developed on [*Keil μVision*](http://www2.keil.com/mdk5/uvision) IDE with C and [*CMSIS*](https://www.arm.com/why-arm/technologies/cmsis) Lib. The program runs on *STM32-F10x*.
 
-- The project of an embedded system
-  - Developer : _ZongHua_, _Lewis_
-  - IDE : `Keil µVision® IDE` - http://www2.keil.com/mdk5/uvision/
-  - Programming language : `C` & `CMSIS Lib`
-  - Environment : _STM32F10x_ embedded system developing board with specific devices
+Special thanks to [*Prof. Weihua Ma*](https://baike.baidu.com/item/%E9%A9%AC%E7%BB%B4%E5%8D%8E/4206024).
 
-------
+## Authors
 
-### Documents
+[![](https://github.com/zonghuaxiansheng.png?size=50)](https://github.com/zonghuaxiansheng)
+[![](https://github.com/Lewis-Lu.png?size=50)](https://github.com/Lewis-Lu)
 
-- See `docs/`
+## Documentation
 
-------
+See `Docs/`.
 
-### Updated - 2018.8.28
+## License
 
-- Contributor : _Lewis, ZongHua_
-- New features :
-  - Support more sensors
+Copyright © 2018, Jingtang Zhang, Hua Zong, Hong Lu. ([MIT License](LICENSE))
 
-------
-
-### Updated - 2018.8.31
-
-- Updated all modules
-
-------
+---
 
